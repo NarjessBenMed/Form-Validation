@@ -1,0 +1,55 @@
+body
+{
+  background-color:#4A354A;
+  font-family: Arial, Helvetica, sans-serif;
+  margin : 5px 600px;
+}
+
+#form-inscri
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
+body label
+{
+  width:200px;
+  margin-bottom: 30px;
+  height:3px;
+  color: white;
+  margin-bottom: 30px;
+  margin-top:20px;
+
+
+}
+
+body input
+{
+  width:250px;
+  height:40px;
+  background-color: #25263A;
+  border: 1px solid #25263A;
+  border-radius : 5px;
+
+
+}
+
+#Cmt
+{
+  background-color: #25263A;
+  border: 1px solid #25263A;
+  border-radius : 5px;
+   margin-bottom: 30px;
+   width:250px;
+
+}
+
+.Butt-submit-Reset
+{
+  width:250px;
+  height:40px;
+  margin-bottom:20px;
+  color:white;
+}
